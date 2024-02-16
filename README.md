@@ -20,4 +20,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=vishal0316&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![vishal0316's GitHub | Topics Over Time](https://stats.quine.sh/vishal0316/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vishal0316)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
